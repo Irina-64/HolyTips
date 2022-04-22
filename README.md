@@ -1,3 +1,5 @@
+### Большой, структурированный сборник ресурсов по изучению кибербезопасности и пентестинга.
+
 ![Holy](https://user-images.githubusercontent.com/71842138/130051116-59ce3e4c-97b6-4c6a-afdd-c82142e3d422.png)
 
 <div align = "center"> <h1> HolyTips </h1> 
